@@ -240,4 +240,4 @@ indian-ocr/
 | GET | `/languages` | All 22 languages info |
 | POST | `/ocr` | Single image OCR |
 | POST | `/ocr/batch` | Batch ZIP upload |
-| GET | `/ocr/status/{id}` | Batch job status |
+| GET | `/ocr/status/{id}` | Batch job status |"# indian-script-ocr" 
